@@ -16,7 +16,7 @@ html {
 }
 
 .header {
-  margin-top: 1rem;
+  /* margin-top: 1rem; */
   display: flex;
   justify-content: space-between;
   padding: 2.5rem 2.5rem;
@@ -131,7 +131,7 @@ html {
   font-weight: 900;
   justify-self: flex-start;
   border-radius: 1rem;
-  box-shadow: 0 0.5rem 1.1rem 0 rgba(0, 0, 0, 0.66);
+  box-shadow: 0.4rem 0.5rem 0.2rem 0.1rem #cad2f4;
   color: #495057;
   transition: all 0.3s;
   display: flex;
