@@ -298,9 +298,22 @@ body {
   height: 3rem;
   width: 3rem;
   color: #868e96;
+  transition: all 1s;
 }
 .nm-footer {
   color: #95a4e9;
   font-size: 1.7rem;
   cursor: pointer;
+}
+.instagram:hover {
+  color: #d6336c;
+}
+.twitter:hover {
+  color: #228be6;
+}
+.fb:hover {
+  color: #1971c2;
+}
+.li:hover {
+  color: #1864ab;
 }
