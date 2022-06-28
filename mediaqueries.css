@@ -55,4 +55,8 @@
     gap: 0.2rem;
     transition: all 1s;
   }
+  .logo {
+    height: 4rem;
+    margin-top: 0.3rem;
+  }
 }

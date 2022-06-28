@@ -39,6 +39,16 @@ body {
 }
 .svgandtext {
   display: flex;
+  gap: 0.4rem;
+}
+.logo {
+  padding: 0.5rem;
+  background-color: #95a4e9;
+  color: darkblue;
+  border-radius: 0.5rem;
+}
+.NM {
+  font-size: 2.7rem;
 }
 .icon {
   width: 2.3rem;
